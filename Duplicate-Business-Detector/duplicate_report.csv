@@ -1,0 +1,7 @@
+business1,business2,name_score,address_score,phone_match,recommendation,confidence
+ABC Restaurant,ABC Rest.,69.57,85.0,Yes,Not a Duplicate,Low
+Fresh Mart,Fresh Market,90.91,90.0,Yes,Review Manually,Medium
+Sunrise Bakery,Sunrise Bakers,92.86,68.18,Yes,Review Manually,Medium
+Green Pharmacy,Green Medicals,57.14,95.24,Yes,Not a Duplicate,Low
+Royal Cafe,Royal Café,90.0,83.72,Yes,Review Manually,Medium
+Tech Solutions,Tech Solution,96.3,100.0,Yes,Safe to Merge,High
